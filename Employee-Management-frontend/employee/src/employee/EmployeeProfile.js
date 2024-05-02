@@ -74,7 +74,7 @@ const EmployeeProfile = () => {
 
 									<div className="col-sm-9">
 										<p className="text-muted mb-0">
-											{employee.id}
+											{employee.empid}
 										</p>
 									</div>
 								</div>
